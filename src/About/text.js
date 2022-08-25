@@ -1,0 +1,4 @@
+let arr = ["Duis est occaecat ullamco ullamco proident do fugiat quis dolore officia ad. Voluptate ullamco occaecat dolor mollit voluptate nisi veniam non. Ex ex in occaecat aliquip eiusmod sunt laboris enim eu.",
+    "Cillum minim amet esse id quis cupidatat mollit commodo nisi nisi velit dolor veniam. Sint cillum pariatur in consectetur ex eu deserunt consequat ea laboris adipisicing magna. Do magna cupidatat incididunt commodo ut enim nostrud. Dolore sit fugiat id dolor laboris Lorem ullamco et anim tempor aute ea incididunt nostrud. Non do aute proident proident cillum cupidatat. Veniam duis amet est excepteur dolor. Consectetur officia cillum exercitation ut laboris exercitation incididunt laborum non minim pariatur ullamco dolor cillum."
+]
+export default arr;
